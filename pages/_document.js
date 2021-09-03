@@ -10,7 +10,7 @@ class MyDocument extends Document {
     const meta = {
       title: `Matas Pigaga's Blog`,
       description: `Let's be honest, this was the easiest starter project to try.`,
-      image: 'https://i.kym-cdn.com/photos/images/original/001/707/893/06a.png'
+      image: 'https://pbs.twimg.com/media/E-XFQBuWEAANBBE?format=png&name=small'
     }
 
     return (
