@@ -6,7 +6,7 @@ const matter = require('gray-matter')
 async function generate() {
   const feed = new RSS({
     title: 'Matas Pigaga',
-    site_url: 'https://mataspigaga.com',
+    site_url: 'https://mataspigaga.com/',
     feed_url: 'https://mataspigaga.com/feed.xml'
   })
 

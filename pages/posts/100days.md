@@ -39,3 +39,17 @@ _I'll probably arrange this in reverse chronological order after a few more days
   1. Figuring out how to deploy a static site using Vercel. Ideally, I would want to have all of these challenges either part of this site or easily linked.
   2. Trying to understand how the file structure needs to be laid out for deployment.
   3. (Crypto Project): A greater understanding of Solidity and in general blockchain will allow me to feel confident on creating an ERC-20 token.
+
+## Day [3/100]
+
+- Time spent: 1.5 hours
+- Main project: Built a simple JS/CSS powered clock
+- **Takeaways:**
+  1. You can directly interact with CSS from a JS file, updating very quickly.
+  2. It's very convenient to modify CSS attributes in the 'inspect element' section of Chrome Dev Tools to figure out a Bezier curve for a transition, for example.
+  3. Many beatiful features of a website take **so little code** to implement.
+- **Challenges:**
+  1. Modifying the existing CSS to make the hours hand smaller. Couldn't figure it out in the time I was working.
+  2. How to add these functions within a React component.
+  3. Long note:
+  - I spent the first part of this session looking into how this blog's underlying code works. I'm not really understanding how Nextra is built based on the provided documentation. Then I looked into what it would take to build this exact site out from scratch, importing MDX functionality myself. I think that'll be an instructive journey.
