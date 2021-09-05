@@ -49,7 +49,22 @@ _I'll probably arrange this in reverse chronological order after a few more days
   2. It's very convenient to modify CSS attributes in the 'inspect element' section of Chrome Dev Tools to figure out a Bezier curve for a transition, for example.
   3. Many beatiful features of a website take **so little code** to implement.
 - **Challenges:**
+
   1. Modifying the existing CSS to make the hours hand smaller. Couldn't figure it out in the time I was working.
   2. How to add these functions within a React component.
   3. Long note:
+
   - I spent the first part of this session looking into how this blog's underlying code works. I'm not really understanding how Nextra is built based on the provided documentation. Then I looked into what it would take to build this exact site out from scratch, importing MDX functionality myself. I think that'll be an instructive journey.
+
+  ## Day [4/100]
+
+- Time spent: 1 hour
+- Main project: Built a test page for CSS variables
+- **Takeaways:**
+  1. Data attributes. You can create your own attributes so that for example you can add a 'px' suffix to a value being updated.
+  2. I'm less timid about updating CSS selectors to make the page fit my needs.
+  3. I looked through the addEventListener documentation and saw a simple build of drawing with JS and CSS.
+- **Challenges:**
+  1. Figuring out how to make the color wheel update realtime like the input sliders.
+  2. Not sure if it's possible to make the spacing slider go off screen in all directions rather than extend into the bottom right.
+  3. Still not 100% on the uses of the dataset attribute.
