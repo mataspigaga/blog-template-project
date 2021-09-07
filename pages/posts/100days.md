@@ -52,11 +52,9 @@ _I'll probably arrange this in reverse chronological order after a few more days
 
   1. Modifying the existing CSS to make the hours hand smaller. Couldn't figure it out in the time I was working.
   2. How to add these functions within a React component.
-  3. Long note:
+  3. I spent the first part of this session looking into how this blog's underlying code works. I'm not really understanding how Nextra is built based on the provided documentation. Then I looked into what it would take to build this exact site out from scratch, importing MDX functionality myself. I think that'll be an instructive journey.
 
-  - I spent the first part of this session looking into how this blog's underlying code works. I'm not really understanding how Nextra is built based on the provided documentation. Then I looked into what it would take to build this exact site out from scratch, importing MDX functionality myself. I think that'll be an instructive journey.
-
-  ## Day [4/100]
+## Day [4/100]
 
 - Time spent: 1 hour
 - Main project: Built a test page for CSS variables
@@ -68,3 +66,16 @@ _I'll probably arrange this in reverse chronological order after a few more days
   1. Figuring out how to make the color wheel update realtime like the input sliders.
   2. Not sure if it's possible to make the spacing slider go off screen in all directions rather than extend into the bottom right.
   3. Still not 100% on the uses of the dataset attribute.
+
+## Day [5/100]
+
+- Time spent: 3 hours
+- Main project: Practiced array methods / Flexbox and JS
+- **Takeaways:**
+  1. The array methods haven’t made this much sense to me, mainly because the challenges I’ve done in the past combined too many concepts at once.
+  2. It’s relatively simple to create animations by implementing event listeners on elements with transform attributes using flexbox.
+  3. Gatsby.js seems like a good framework to explore for building out the portfolio since it has faster static site generation, lazy loading, and it populates the page with the HMTL/CSS before hydrating the rest of the function.
+- **Challenges:**
+  1. The flexbox challenge already had some of the CSS prebuilt which makes it so it doesn’t 100% click on how the transformations were set up.
+  2. The array methods made sense when using local data, but I can’t really picture moving to external data or even markdown file names which is the goal.
+  3. Timing and consistency were something I was definitely struggling with yesterday. Although I have a pretty rough sleep schedule, I still feel like I could have doubled or even tripled the amount of time I spent on this yesterday. As the evening hit, I lost my energy to keep going, which I can see hindering me in the future. I might try to work in a well lit place at night when this happens again.
