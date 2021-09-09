@@ -105,4 +105,8 @@ _I'll probably arrange this in reverse chronological order after a few more days
   1. Not sure how to make the Link component be highlighted differently if that is the page that is currently displayed. Not much luck googling it, yet.
   2. Still can't imagine how I would implement the actually JS projects onto separate pages on the site, or even several on one page...
   3. Design and UX is a huge thing for me to work on. In the process of reading the book "Steal Like An Artist" because I'm having difficulty finding ideas and inspiration out of thin air.
-  
+
+## Day [8/100]
+
+- Time spent: 2 hours
+- Main project: HTML5 Canvas & Gatsby Portfolio Project
