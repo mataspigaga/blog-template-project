@@ -92,3 +92,17 @@ _I'll probably arrange this in reverse chronological order after a few more days
   1. I couldn't picture where to go to get to the end result of this challenge so I had to follow the instructions pretty closely. I'm not sure what the best learning method from here is, whether I should rewatch or try to dig deeper into forums.
   2. I'm not sure I would have had the foresight to find the function needed to add commas to the population data, I need to spend more time on my search skills.
   3. I need to make better comments, I'm already finding myself forgetting some of the functions I built in challenges a couple days ago when I go back for reference.
+
+## Day [7/100]
+
+- Time spent: 2 hours
+- Main project: Array methods & Gatsby portfolio project
+- **Takeaways:**
+  1. Array methods are really useful, which sounds painfully obvious for anyone with any experience with them, but seeing them in action is another thing.
+  2. The Gatsby tutorial is very well written. I got such a strong understanding of the core concepts that I've spent hours trying to digest. When confused on a topic, I really need to read on it through several sources.
+  3. React components and pages are making much more sense. I understand that I can create a component that holds the individual project and insert it straight into the Layout component. I wonder if there's a faster way to add in the data to have a project component that maps the different projects' data.
+- **Challenges:**
+  1. Not sure how to make the Link component be highlighted differently if that is the page that is currently displayed. Not much luck googling it, yet.
+  2. Still can't imagine how I would implement the actually JS projects onto separate pages on the site, or even several on one page...
+  3. Design and UX is a huge thing for me to work on. In the process of reading the book "Steal Like An Artist" because I'm having difficulty finding ideas and inspiration out of thin air.
+  
