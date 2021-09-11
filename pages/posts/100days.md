@@ -110,3 +110,8 @@ _I'll probably arrange this in reverse chronological order after a few more days
 
 - Time spent: 2 hours
 - Main project: HTML5 Canvas & Gatsby Portfolio Project
+
+## Day [9/100]
+
+- Time spent: 30 minutes
+- Main project: Learned Dev Tools Tricks
