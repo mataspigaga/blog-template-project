@@ -110,8 +110,37 @@ _I'll probably arrange this in reverse chronological order after a few more days
 
 - Time spent: 2 hours
 - Main project: HTML5 Canvas & Gatsby Portfolio Project
+- **Takeaways:**
+  1. I was able to do something as add a button with styling without almost any instruction that also had functionality. It was a satisfying step for me after going through several of these JS challenges.
+  2. You can loop through if statement by just have a changing event. For example, every time the mouse is clicked down AND moved, the function to draw is activated, so then I can change the color as the draw function is running.
+  3. I could see how it's possible to build a drawing app like awwapp.com
+- **Challenges:**
+  1. It was difficult to align 3 elements in the header bar that would have the middle element spaced directly in the center regardless of the size of the button and text on either side.
+  2. I was not able to figure out how to make the canvas only the height of the viewport and also have a header. Once the header was added, the canvas would extend that height below the viewport and you would have to scroll on the page to see all of it.
+  3. I'm still not 100% on how I created a flag that only ran the function when clicking down AND moving.
 
 ## Day [9/100]
 
 - Time spent: 30 minutes
 - Main project: Learned Dev Tools Tricks
+- **Takeaways:**
+  1. So many of the things I am taught are only surface level, but it makes sense why console.log has the '.' in the middle, it's one of many methods.
+  2. I keep being surprised for some reason just how much functionality the browser has and how much data you can work with.
+  3. Even when it's 2:30 in the morning after a 20 hour day filled with work and necessary errands, I can still sit down and do something to continue the workflow streak.
+- **Challenges:**
+  1. Remembering that I can use these tools to enhance my workflow, I guess it will just take time and revisitation.
+  2. Finding the time to build something or code every day with a work / life balance, as well. I know that it will be a struggle to have this balance on my upcoming 4 day trip with friends.
+  3. Being ok with just doing 30 minutes when I committed to an hour. Could I have just sacrificed more sleep, is that worth the several day negative effects?
+
+## Day [10/100]
+
+- Time spent: 1.5 hours
+- Main project: Building a Custom Video Player
+- **Takeaways:**
+  1. I didn't realize that you can just build video functionality from scratch like this, I always assumed the video processing was very complicated and embedding was essential.
+  2. I could see adding some video functionality to my own portfolio where you could click on various buttons on the site to control a video story in the background.
+  3. I finally understand creating a flag variable to make it so scrubbing is only active when the mouse is down AND moving.
+- **Challenges:**
+  1. I didn't have the time to explore a couple functions that I know will likely be a challenge to figure out, like showing the volume slider in a pull-up bar and changing the playback speed to pre-set buttons.
+  2. I couldn't figure out how to set a max-width and max-height that kept the consistent 16:9 ratio. Maybe by using a container div to lock the max-width.
+  3. The progress bar starts at 50% not 0% when the page is first loaded, not sure how to change that still.
