@@ -144,3 +144,20 @@ _I'll probably arrange this in reverse chronological order after a few more days
   1. I didn't have the time to explore a couple functions that I know will likely be a challenge to figure out, like showing the volume slider in a pull-up bar and changing the playback speed to pre-set buttons.
   2. I couldn't figure out how to set a max-width and max-height that kept the consistent 16:9 ratio. Maybe by using a container div to lock the max-width.
   3. The progress bar starts at 50% not 0% when the page is first loaded, not sure how to change that still.
+
+## 10-Day Recap
+
+- In progress
+
+## Day [11/100]
+
+- Time spent: 2 hours
+- Main project: JS Challenges / Gatsby Portfolio Project
+- **Takeaways:**
+  1. I can see how I could make my portfolio interacive with Key Sequence Detection, like typing while on the page to find easter eggs or even an on page command terminal for answering questions.
+  2. Slide in on scroll is useful to really create that Apple event like experience on your site. I can see how it can be abused, but would be a great way to make the page feel alive while scrolling.
+  3. Getting back into working on the portfolio is making me realize how to original site template I used works. There is a data layer that I wasn't seeing before, but now that I understand some of the simple functionality of GraphQL, it's starting to click.
+- **Challenges:**
+  1. It took me quite a while to wrap my head around the .splice() and .join() methods even though they are pretty simple, not to mention everything being wrapped in a .forEach() method. Maybe a CS degree would've helped with this...
+  2. I'm struggling to think of how to style the portfolio using the tools I'm learning rather than brute-forcing it. There's an elegance to short and intentional code that I'm trying to internalize.
+  3. I'm still not 100% on the usefulness of using gatsby-source-filesystem to move simple data within the file, maybe this will be more important when I'm introduced to using a CMS.
