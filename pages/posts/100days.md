@@ -161,3 +161,16 @@ _I'll probably arrange this in reverse chronological order after a few more days
   1. It took me quite a while to wrap my head around the .splice() and .join() methods even though they are pretty simple, not to mention everything being wrapped in a .forEach() method. Maybe a CS degree would've helped with this...
   2. I'm struggling to think of how to style the portfolio using the tools I'm learning rather than brute-forcing it. There's an elegance to short and intentional code that I'm trying to internalize.
   3. I'm still not 100% on the usefulness of using gatsby-source-filesystem to move simple data within the file, maybe this will be more important when I'm introduced to using a CMS.
+
+## Day [12/100]
+
+- Time spent: 1 hour
+- Main project: JS Challenges / Organization
+- **Takeaways:**
+  1. I don't see the value yet, but just finding something to post every day on this blog article is one of the most valuable things I can be doing in the early stages. Builds a good habit and will be more and more valuable as time passes on my coding career.
+  2. I'm understanding the importance of data manipulation and I just discovered how to clone an object, never seen that before.
+  3. CSS Variables are immediately useful, as I picked out a color palette for the portfolio today.
+- **Challenges:**
+  1. It was more difficult today than other days to dive into work, I just kept finding myself distracted. Just posting about the struggle and continuing the 100days challenge is a small win, though.
+  2. I feel like I might be in tutorial hell trying to figure out this portfolio project, but how do you not get lost in tutorials even when building a project? I feel like I keep pulling threads and then I get lost in the info it leads me to.
+  3. Again, design for the portfolio is really nagging at me, not sure where I want to go with it. Maybe that shouldn't be a huge worry though and I should move on the ecom store. I want to build something for the upcoming iPhone release so I can try selling some cases.
