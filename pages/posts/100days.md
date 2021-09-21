@@ -13,6 +13,7 @@ _I'll probably arrange this in reverse chronological order after a few more days
 
 ## Day [1/100]
 
+- September 2nd, 2021
 - Time spent: 3 hours
 - Main project: Building a very basic cryptocurrency named MatCoin
 - **Takeaways:**
@@ -26,6 +27,7 @@ _I'll probably arrange this in reverse chronological order after a few more days
 
 ## Day [2/100]
 
+- September 3rd, 2021
 - Time spent: 3 hours
 - _No main project_
 - Spent too much time on figuring out the crypto code until I decided to take a simpler approach. That led me down a road of learning about the various wallets and exchanges, but I'm locked out of deploying the code until the funds clear.
@@ -42,6 +44,7 @@ _I'll probably arrange this in reverse chronological order after a few more days
 
 ## Day [3/100]
 
+- September 4th, 2021
 - Time spent: 1.5 hours
 - Main project: Built a simple JS/CSS powered clock
 - **Takeaways:**
@@ -56,6 +59,7 @@ _I'll probably arrange this in reverse chronological order after a few more days
 
 ## Day [4/100]
 
+- September 5th, 2021
 - Time spent: 1 hour
 - Main project: Built a test page for CSS variables
 - **Takeaways:**
@@ -69,6 +73,7 @@ _I'll probably arrange this in reverse chronological order after a few more days
 
 ## Day [5/100]
 
+- September 6th, 2021
 - Time spent: 3 hours
 - Main project: Practiced array methods / Flexbox and JS
 - **Takeaways:**
@@ -82,6 +87,7 @@ _I'll probably arrange this in reverse chronological order after a few more days
 
 ## Day [6/100]
 
+- September 7th, 2021
 - Time spent: 1 hour
 - Main project: AJAX type ahead form
 - **Takeaways:**
@@ -95,6 +101,7 @@ _I'll probably arrange this in reverse chronological order after a few more days
 
 ## Day [7/100]
 
+- September 8th, 2021
 - Time spent: 2 hours
 - Main project: Array methods & Gatsby portfolio project
 - **Takeaways:**
@@ -108,6 +115,7 @@ _I'll probably arrange this in reverse chronological order after a few more days
 
 ## Day [8/100]
 
+- September 9th, 2021
 - Time spent: 2 hours
 - Main project: HTML5 Canvas & Gatsby Portfolio Project
 - **Takeaways:**
@@ -121,6 +129,7 @@ _I'll probably arrange this in reverse chronological order after a few more days
 
 ## Day [9/100]
 
+- September 10th, 2021
 - Time spent: 30 minutes
 - Main project: Learned Dev Tools Tricks
 - **Takeaways:**
@@ -134,6 +143,7 @@ _I'll probably arrange this in reverse chronological order after a few more days
 
 ## Day [10/100]
 
+- September 15th, 2021
 - Time spent: 1.5 hours
 - Main project: Building a Custom Video Player
 - **Takeaways:**
@@ -151,6 +161,7 @@ _I'll probably arrange this in reverse chronological order after a few more days
 
 ## Day [11/100]
 
+- September 16th, 2021
 - Time spent: 2 hours
 - Main project: JS Challenges / Gatsby Portfolio Project
 - **Takeaways:**
@@ -164,6 +175,7 @@ _I'll probably arrange this in reverse chronological order after a few more days
 
 ## Day [12/100]
 
+- September 17th, 2021
 - Time spent: 1 hour
 - Main project: JS Challenges / Organization
 - **Takeaways:**
@@ -174,3 +186,17 @@ _I'll probably arrange this in reverse chronological order after a few more days
   1. It was more difficult today than other days to dive into work, I just kept finding myself distracted. Just posting about the struggle and continuing the 100days challenge is a small win, though.
   2. I feel like I might be in tutorial hell trying to figure out this portfolio project, but how do you not get lost in tutorials even when building a project? I feel like I keep pulling threads and then I get lost in the info it leads me to.
   3. Again, design for the portfolio is really nagging at me, not sure where I want to go with it. Maybe that shouldn't be a huge worry though and I should move on the ecom store. I want to build something for the upcoming iPhone release so I can try selling some cases.
+
+## Day [13/100]
+
+- September 20th, 2021
+- Time spent: 2.5 hours
+- Main project: Local Storage Challenge / Gatsby Portfolio Project
+- **Takeaways:**
+  1. I created and added an SVG to the site on my own, adding it to the header using flexbox. This was not nearly as difficult as I thought it might be.
+  2. During the local storage JS challenge, I saw just how much work it takes to create something as simple as a dynamic list using Vanilla JS, I'm glad I'm focusing on using a framework so that things like this aren't unnecessarily time consuming.
+  3. It's easy to get lost searching how to do something very specific on a build, but I'm improving my prioritization and instead read up on topics that were more useful to exactly what I was trying to do. For example, Flexbox and CSS Grid.
+- **Challenges:**
+  1. I either don't have a fundamental understanding of how CSS works or I'm just not used to how slow of a process it is to get things right. It definitely gets frustrating at times.
+  2. It seemed too daunting of a task to figure out the "clear all", "check all", and "uncheck all" functionality, so I decided to instead work on the portfolio project. I'm not sure if I would've gotten a lot out of figuring that out, but I think my insight is slowly getting better and I felt my time was better used on this project.
+  3. I tried to implement the first JS challenge, the drum kit, into one of the pages on the portfolio. I did get the page rendered and added the basic HTML/CSS, but I couldn't really picture how to move forward with the actual functionality of the keyboard not using eventListeners.

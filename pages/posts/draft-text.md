@@ -1,4 +1,16 @@
-After several distracting life-events and 6  
+## Day [/100]
+
+- , 2021
+- Time spent: 
+- Main project: 
+- **Takeaways:**
+  1. 
+  2. 
+  3. 
+- **Challenges:**
+  1. 
+  2. 
+  3. 
 
 ## Blockquotes
 
