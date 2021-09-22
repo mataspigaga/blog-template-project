@@ -200,3 +200,17 @@ _I'll probably arrange this in reverse chronological order after a few more days
   1. I either don't have a fundamental understanding of how CSS works or I'm just not used to how slow of a process it is to get things right. It definitely gets frustrating at times.
   2. It seemed too daunting of a task to figure out the "clear all", "check all", and "uncheck all" functionality, so I decided to instead work on the portfolio project. I'm not sure if I would've gotten a lot out of figuring that out, but I think my insight is slowly getting better and I felt my time was better used on this project.
   3. I tried to implement the first JS challenge, the drum kit, into one of the pages on the portfolio. I did get the page rendered and added the basic HTML/CSS, but I couldn't really picture how to move forward with the actual functionality of the keyboard not using eventListeners.
+
+## Day [14/100]
+
+- September 21st, 2021
+- Time spent: 4 hours
+- Main project: Mousemove-Shadow JS Challenge / CSS Proficiency / Gatsby Portfolio Project
+- **Takeaways:**
+  1. Making a responsive mousemove element on the page (as well as an editable one) is much easier than I would have imagined. It also led me down several rabbit holes on other CSS tricks I could use and to look into the Chrome Dev Tools more whilst editing CSS.
+  2. Now that I started to use GraphQL to actually query the body of the articles I want to have on the site, I see some of the usefulness of the tool. It really keeps everything organized and concise.
+  3. It took quite a while, but eventually I found how to display my favicon and custom fonts on the Gatsby portfolio, I wonder if there was an easier way.
+- **Challenges:**
+  1. I'm not sure what happens to the performance of my site everytime I install a dependency but I don't end up using it. I should look up if there's a way to get rid of dependencies I don't need or if it's not even worth the trouble deleting.
+  2. Again, it's difficult to not get distracted chasing a little bug or feature for sometimes hours because it doesn't occur until the end that the time could have been better spent on broader things.
+  3. I'm stuck on the formatString argument and why it's not working on my query. The articles I found were not really helping, now I'm wondering if I should follow a different tutorial or if I should just skip this bug. Probably just skip the bug until later.
