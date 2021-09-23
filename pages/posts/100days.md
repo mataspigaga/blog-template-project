@@ -52,7 +52,6 @@ _I'll probably arrange this in reverse chronological order after a few more days
   2. It's very convenient to modify CSS attributes in the 'inspect element' section of Chrome Dev Tools to figure out a Bezier curve for a transition, for example.
   3. Many beatiful features of a website take **so little code** to implement.
 - **Challenges:**
-
   1. Modifying the existing CSS to make the hours hand smaller. Couldn't figure it out in the time I was working.
   2. How to add these functions within a React component.
   3. I spent the first part of this session looking into how this blog's underlying code works. I'm not really understanding how Nextra is built based on the provided documentation. Then I looked into what it would take to build this exact site out from scratch, importing MDX functionality myself. I think that'll be an instructive journey.
@@ -214,3 +213,17 @@ _I'll probably arrange this in reverse chronological order after a few more days
   1. I'm not sure what happens to the performance of my site everytime I install a dependency but I don't end up using it. I should look up if there's a way to get rid of dependencies I don't need or if it's not even worth the trouble deleting.
   2. Again, it's difficult to not get distracted chasing a little bug or feature for sometimes hours because it doesn't occur until the end that the time could have been better spent on broader things.
   3. I'm stuck on the formatString argument and why it's not working on my query. The articles I found were not really helping, now I'm wondering if I should follow a different tutorial or if I should just skip this bug. Probably just skip the bug until later.
+
+## Day [15/100]
+
+- September 22nd, 2021
+- Time spent: 1.5 hours
+- Main project: JS Challenges / Gatsby Portfolio Project
+- **Takeaways:**
+  1. I'm realizing that I now have a pretty solid understanding of flexbox and basic CSS in general. It took me no time or googling to get my About page to look how I wanted. The thing I wonder is if there are ways I could be setting things up to cut down on repeated code... or if it's even worth it performance-wise when it comes to CSS.
+  2. I realized how simple it is to sort arrays of strings and numbers using .sort(), now I wonder how to implement that with the blog posts to sort the various days on the spot, if that's possible.
+  3. It finally feels like the new site isn't looking absolutely terrible, the about page is really coming together for almost having no content. The buttons look pretty good, I want to replace or enhance them with the actual company logos.
+- **Challenges:**
+  1. It took me a while to sit down and actually get to work and then I ended working on the About Page rather than the Posts Page because I knew it was an easier task to tackle.
+  2. I tried to figure out why https://www.matas.io is not working but https://matas.io, http://matas.io, and http://www.matas.io are. It has something to do with SSL certificates I'm pretty sure, but I need to contact support or something because I'm stuck.
+  3. I think my CSS code is already becoming a mess because I didn't set up my layout well, or maybe I should be making separate CSS files for separate pages. OR should I be putting the About Page into a component and then rendering that component in the actual pages folder. That seems like something to look into...
